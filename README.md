@@ -32,7 +32,7 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
-* После чего запускаем проект
+* После чего запускаем приложение
 
  <p>Для разворачивания бота вам надо так же:</p>
 
